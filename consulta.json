@@ -1,0 +1,65 @@
+{
+  "CLIENTES": {
+    "Cliente 1": {
+      "apellido": "cruz",
+      "correo": "jc0654970@gmail.com",
+      "direccion": "chamelco",
+      "idCliente": 1,
+      "nombre": "Jaqui",
+      "telefono": 45959840
+    },
+    "Cliente 3 ": {
+      "Apellido": "alvarez",
+      "Correo": "martalva@gmail.com",
+      "Direccion": "coban",
+      "Nombre": "marta",
+      "Telefono": 43235678,
+      "idCliente": 3
+    },
+    "cliente2 ": {
+      "apellido": "castro",
+      "correo": "castro21@gmail.com",
+      "direccion": "chamelco",
+      "idCliente": 2,
+      "nombre": "anthony",
+      "telefono": 45657890
+    }
+  },
+  "Cliente-Evento": {
+    "Cliente-Evento 1 ": {
+      "idCliente-Evento 1": 1,
+      "idcliente": 1,
+      "idevento": 1
+    },
+    "Cliente-Evento 2": {
+      "idCliente-Evento 2": 2,
+      "idcliente": 2,
+      "idevento": 2
+    },
+    "Cliente-Evento 3": {
+      "idCliente-Evento 3": 3,
+      "idcliente": 3,
+      "idevento": 3
+    }
+  },
+  "EVENTO": {
+    "Evento 1": {
+      "Descripcion": "fiesta",
+      "Nombre": "casa sola",
+      "idEvento": 1,
+      "precio": 5000
+    },
+    "Evento 2": {
+      "Descripcion": "boda",
+      "Nombre": "castillo",
+      "idEvento 2 ": 2,
+      "precio": 6000
+    },
+    "Evento 3": {
+      "Descripcion": "graduacion",
+      "Nombre": "masta",
+      "Precio": 3000,
+      "idEvento 3": 3
+    }
+  }
+}
